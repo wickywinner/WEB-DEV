@@ -1,0 +1,5 @@
+Nodejs :- Nodejs is an asynchronous event-driven JavaScript runtime , Node.js is designed to build scalable network applications.
+       
+       It is basically a an Android having apps as Module and we use these modules to do certain task and for interaction there is
+       a language that is java script.
+       

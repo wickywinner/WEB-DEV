@@ -1,0 +1,16 @@
+#1 what actually is javaScript✨
+                    >> react
+                    >> Node js
+                    >> ECMA
+                    >> ES6
+
+#2 Types of function
+
+#3 How javaScript code executed
+
+#4 Hositing(Memory allocation) and fake function
+
+#5 Lexical scope and scope chain
+
+#6 Var let const differnece
+

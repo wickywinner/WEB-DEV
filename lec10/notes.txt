@@ -1,0 +1,7 @@
+JavaScript:- 
+    JavaScript work for many purposes like to build desktop application , mobile application ,IOT 
+    and many more Basically it is for doing logical operations.
+
+    ** JavaScript runs on JavaScript Run Time Enviroment which is Nodejs or Browser
+    ** JavaScript has different engine on which it runs like V8 used by google, 
+                                                            Spider Monkey is used by Firefox...and so on 
