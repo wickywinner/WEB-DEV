@@ -10,6 +10,7 @@ function fn(){
     varname++;
     console.log("line no 11>>",varname);
     var varname;
+    varname=30;
     console.log("line no 13>>",varname);
 }
 fn();
