@@ -1,0 +1,16 @@
+1. Given url of IPL 2020-21 
+2. make a oragnized list of all the team and player show data like 
+                        1.Venue
+                        2.date
+                        3.Opponent
+                        4.result
+                        5.runs
+                        6.balls
+                        7.fours
+                        8.sixes
+                        9.strike rate
+
+logic:---
+
+
+
