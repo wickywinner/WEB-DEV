@@ -1,0 +1,5 @@
+only discuss how to install
+1. VS code
+2. git
+3. node js
+  
