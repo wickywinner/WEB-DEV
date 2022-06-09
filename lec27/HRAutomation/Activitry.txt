@@ -1,0 +1,8 @@
+Basically in Hacker Rank Automation we by pass Hacker Rank login tab by 
+using email Id and Password then got to problem section the select a problem
+then write code for that and submit
+
+this all done using puppeteer library
+
+temp mail = billey.14@yadaptorym.com
+Password = mehu@kon
